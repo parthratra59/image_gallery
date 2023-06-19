@@ -4,7 +4,7 @@
 ## About the Website
 You can visit the live website deployed at https://constems-ai-fd8e1.web.app/.
 
-This is a React image gallery with carousel functionality, developed as an assignment for Company Constems-AI. The gallery fetches images from the Unsplash API based on the search query 'morning' and displays them in a responsive carousel. Clicking on an image opens a modal with a larger view of the image.
+This is a React image gallery with carousel functionality, developed as an assignment for the Company Constems-AI. The gallery fetches images from the Unsplash API based on the search query 'morning' and displays them in a responsive carousel. Clicking on an image opens a modal with a larger view of the image.
 
 ## Features
 
